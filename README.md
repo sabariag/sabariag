@@ -77,7 +77,7 @@ smart-complaint-system/
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dharshini-punniyamoorthi/smart-complaint-system.git
+   git clone https://github.com/Sabariag/smart-complaint-system.git
 2.Move the project folder to the htdocs directory (XAMPP).
 3.Start Apache and MySQL from the XAMPP Control Panel.
 4.Open frontend files in a web browser.
